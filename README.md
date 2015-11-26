@@ -6,6 +6,9 @@ Like all Perch Feather's you first need to start by coping `ketterus_bootstrap` 
 
 :smiley: Smile, Your done.
 
+* Bootstrap v3.3.6
+* jquery v2.1.4
+
 # Updated
 Please make sure if you installed my previous bootstrap feather that you update the `perch/config/feathers.php` as I am now using the naming convention of `ketterus_bootstrap`
 
